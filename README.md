@@ -1,6 +1,6 @@
 # Roman Lozynskyi
 
-### AI / Product Developer
+### AI Product Developer | SaaS Architecture | Automation
 
 I build AI agents, SaaS products, business automation, and web applications. My work covers product architecture, backend logic, databases, integrations, AI workflows, responsive interfaces, and production delivery.
 
@@ -8,69 +8,66 @@ I build AI agents, SaaS products, business automation, and web applications. My 
 
 ### AI Agents
 
-**AI Lead Scout**
+**AI Lead Scout**  
+Multi-source AI lead research agent designed to deliver qualified, current, contactable leads instead of stopping at raw names. The system combines source routing, browser automation, company and decision-maker verification, enrichment, evidence-based qualification, deduplication, cost controls, and campaign completion logic.
 
-Multi-source AI agent for discovering, researching, verifying, and enriching qualified B2B leads. It combines source routing, browser automation, company and decision-maker verification, contact enrichment, evidence-based qualification, cost controls, and campaign-level completion logic.
+[Case study](https://github.com/romanlozynskyi/Portfolio/blob/main/case-studies/ai-lead-scout.md)
 
-`AI Agents` `TypeScript` `Playwright` `Exa` `Apify` `Automation`
+`AI Agents` `TypeScript` `Playwright` `Exa` `Apify` `Research Automation`
 
 ### SaaS Products
 
-**Loomenio**
+**Loomenio**  
+AI-first operations platform for small-batch manufacturers. It combines materials, products, recipes, production, sales, inventory, suppliers, integrations, analytics, AI-assisted capture, and operational recommendations in a multi-workspace SaaS architecture.
 
-AI-first inventory and production platform for small-batch manufacturers. Built with multi-workspace architecture, role-based access, inventory transactions, recipes, production, sales, supplier workflows, integrations, analytics, AI Capture, and operational recommendations.
-
-[Live product](https://app.loomenio.com)
+[Live product](https://app.loomenio.com) | [Case study](https://github.com/romanlozynskyi/Portfolio/blob/main/case-studies/loomenio.md)
 
 `Next.js` `TypeScript` `Supabase` `PostgreSQL` `RLS` `AI`
 
-**Helpview**
+**Helpview**  
+SaaS product for turning Notion content into branded, searchable customer help centers with synced documentation, themes, search, multilingual content, SEO, custom domains, analytics, and an embeddable support widget.
 
-SaaS product for turning Notion content into branded, searchable help centers. Includes synced documentation, themes, search, multilingual content, SEO, custom domains, analytics, and embeddable support experiences.
-
-[Live product](https://helpview.so/)
+[Live product](https://helpview.so/) | [Case study](https://github.com/romanlozynskyi/Portfolio/blob/main/case-studies/helpview.md)
 
 `SaaS` `Notion` `Search` `Knowledge Base` `Integrations`
 
 ### Production Systems
 
-**AstuteWheel**
+**AstuteWheel**  
+Production financial planning SaaS and CRM used by 120k+ users. My work covers system and database architecture, backend workflows, CRM operations, reporting, API integrations, automation, billing flows, performance optimization, and long-term product evolution.
 
-Production financial planning SaaS and CRM used by 120k+ users. My work covered system and database architecture, backend workflows, CRM operations, reporting, API integrations, automation, performance optimization, billing flows, and long-term product evolution.
+[Case study](https://github.com/romanlozynskyi/Portfolio/blob/main/case-studies/astutewheel.md)
 
 `SaaS Architecture` `CRM` `APIs` `Automation` `Reporting` `Performance`
 
-**AI Sleep Assistant**
+**AI Sleep Assistant**  
+AI-powered client product with free and paid access modes, OpenAI integration, Stripe subscriptions, responsive chat UI, account flows, and an embeddable WordPress widget. Delivered and launched as a live product.
 
-AI-powered chat product with free and paid access modes, OpenAI integration, Stripe subscriptions, responsive chat UI, account flows, and an embeddable WordPress widget. Delivered and launched as a live client product.
-
-[Live product](https://kim-sleep-assistant-62596.bubbleapps.io/)
+[Live product](https://kim-sleep-assistant-62596.bubbleapps.io/) | [Case study](https://github.com/romanlozynskyi/Portfolio/blob/main/case-studies/ai-sleep-assistant.md)
 
 `OpenAI` `Stripe` `AI Product` `Subscriptions` `Widget`
 
 ## Web and Product Interfaces
 
-**168 DAYS Mini App**
-
+**168 DAYS Mini App**  
 Mobile-first Telegram Mini App prototype for an interactive startup reality show with voting, XP, startup cards, and profile flows.
 
-[View repository](https://github.com/romanlozynskyi/168-days-mini-app)
+[Repository](https://github.com/romanlozynskyi/168-days-mini-app) | [Case study](https://github.com/romanlozynskyi/Portfolio/blob/main/case-studies/168-days.md)
 
 `Next.js` `TypeScript` `Tailwind CSS` `Telegram Mini App`
 
-**Selected Local Business Websites**
+**Selected Local Business Websites**  
+Conversion-focused website concepts for service businesses in Ukraine, covering positioning, calculators, booking flows, service presentation, responsive UI, and bilingual content.
 
-A set of conversion-focused website concepts for service businesses in Ukraine, covering clear positioning, calculators, booking flows, service presentation, responsive UI, and bilingual content.
+[KVARC Detailing](https://kvarc-detailing.vercel.app/) | [Emal Dental](https://emal-dental-ten.vercel.app/) | [MALVA Beauty](https://malva-beauty-studio.vercel.app/) | [RIVNO Renovation](https://rivno-renovation.vercel.app/) | [POPIL Restaurant](https://popil-restaurant.vercel.app/)
 
-- [KVARC Detailing](https://kvarc-detailing.vercel.app/)
-- [Emal Dental](https://emal-dental-ten.vercel.app/)
-- [MALVA Beauty](https://malva-beauty-studio.vercel.app/)
-- [RIVNO Renovation](https://rivno-renovation.vercel.app/)
-- [POPIL Restaurant](https://popil-restaurant.vercel.app/)
+[Case study](https://github.com/romanlozynskyi/Portfolio/blob/main/case-studies/selected-websites.md)
 
-[View portfolio repository](https://github.com/romanlozynskyi/Portfolio)
+## More Client Systems
 
-`Astro` `Tailwind CSS` `Responsive Design` `SEO` `Lead Generation`
+Healthcare admin portal, contract management SaaS, education and impact platform, marketplace systems, and SaaS architecture rescue work.
+
+[Selected client systems](https://github.com/romanlozynskyi/Portfolio/blob/main/case-studies/selected-client-systems.md)
 
 ## What I Build
 
@@ -93,10 +90,7 @@ Building practical AI systems and software products that do real work: research,
 
 ## In Progress
 
-**Voltt**
+**Voltt**  
+Product rebuild and architecture work. The technical case study will grow as the new version develops.
 
-Product rebuild and architecture work. Technical case study will be added as the new version develops.
-
----
-
-More technical case studies and architecture notes are being added.
+[Project note](https://github.com/romanlozynskyi/Portfolio/blob/main/case-studies/voltt.md)
